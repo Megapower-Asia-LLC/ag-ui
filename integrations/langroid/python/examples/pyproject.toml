@@ -14,7 +14,7 @@ dependencies = [
     "fastapi>=0.115.12",
     "uvicorn>=0.34.0",
     "python-dotenv>=1.0.0",
-    "langroid>=0.2.0",
+    "langroid>=0.64.0",
     "ag_ui_langroid",
 ]
 
