@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@ag-ui/client": "workspace:*",
-    "@modelcontextprotocol/sdk": "^1.0.0"
+    "@modelcontextprotocol/sdk": "^1.26.0"
   },
   "peerDependencies": {
     "rxjs": "7.8.1"
